@@ -6,12 +6,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 # Image Processing Lab Project\
-\
-## Muharrem Altunbag\
-**Candidate Number:** 284362  \
-**Word Count:** [Insert Word Count]  \
-**Date:** May 2024\
-\
 ## Overview\
 \
 This project outlines the development and implementation of an advanced image processing system using MATLAB, designed to detect and classify colors and geometric shapes (specifically circles) within images. The system integrates several image processing techniques, including image loading, pre-processing, shape detection, geometric correction, and color classification, to achieve an accuracy rate of over 80%. This project demonstrates potential applications in automated quality control, object recognition, and pattern analysis.\
